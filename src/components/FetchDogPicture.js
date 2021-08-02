@@ -38,13 +38,3 @@ export default function FetchDogPicture() {
     </div>
   );
 }
-
-/* 
-  Ideas to cover:
-
-  * useEffect is for doing async requests (and other imperative updates)
-  * use in conjunction with useState to send requests and capture the response
-  * whenever the second argument of useEffect changes, will retrigger the effect
-  * Notice the ternary used for Loading, a common pattern
-
-*/

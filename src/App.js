@@ -34,14 +34,3 @@ export default function App() {
     </>
   );
 }
-
-/* 
-  Ideas to cover:
-
-  * import a React component and then reference it in the JSX
-  * can only return one element! This is where the React.Fragment element becomes useful
-  * props can be passed to component just like attributes in html
-  * double curly braces `{ ... }` is how you execute code within your JSX. In this case we want to pass 42 as a number, not a string, so we use curly brackets. 
-
-  * Redux Provider
-*/

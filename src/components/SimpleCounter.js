@@ -19,10 +19,3 @@ export default function Counter() {
     </div>
   );
 }
-
-/* 
-  Ideas to cover:
-
-  * Nothing new here, but this will be our canonical example for switching to Redux
-
-*/

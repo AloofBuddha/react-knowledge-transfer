@@ -16,10 +16,3 @@ export default function GreetingWithState() {
     </div>
   );
 }
-
-/* 
-  Ideas to cover:
-
-  * Have to import useState explicitly
-  * every time setName is called, name will be set to the value passed in and the component will rerender
-*/

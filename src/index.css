@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.example {
+  padding-left: 50px;
+}
+
+.counter {
+  display: flex;
+}
+
+.counter pre {
+  margin: 0 15px;
+}
